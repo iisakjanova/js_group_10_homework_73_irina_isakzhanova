@@ -1,0 +1,19 @@
+{
+  "name": "js_group_10_homework_73_irina_isakzhanova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node task01.js",
+    "dev": "nodemon task01.js"
+  },
+  "author": "Irina Isakzhanova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
